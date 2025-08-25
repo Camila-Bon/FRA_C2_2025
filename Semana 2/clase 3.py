@@ -15,3 +15,15 @@
 #Tipos de parametros: formales(recibe datos con los que va a operar la misma), actuales. (ppt), por posición, por nombre;
 
 #------------------------------------------------------------ ppt
+
+#MODULOS.
+#Un modulo en Python es un archivo que contiene definiciones de funciones. Con extención ".py".
+#Organiza y hace reutilizable los codigos.
+
+#importar modulos con: From "...(modulo)" import "...(funciones)" /o/ *(para importar todo).
+
+#Paquete para organizar modulos relacionados. Es una carpeta junto con un archivo __init__.py.
+#Para importar tenemos que poner: el nombre del paquete.la funcion as PC -o- Pc.funcion
+#El punto dice que el modulo se encuentra en esa misma carpeta.
+#Paquete que incluye modulos que tiene respectivas funciones--
+
