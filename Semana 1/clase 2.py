@@ -1,17 +1,17 @@
 #la cantidad de vueltas que va a dar de se define en tiempo de ejecucion - while
-"""
+
 a = 1
 while a < 10:
     print (a)
     a += 2
-"""
+
 #contadores: +=
-"""
+
 contador = 0
 
 while True:
     contador += 1
-"""
+
     
 #acumulador
 #porcentajes
@@ -45,15 +45,15 @@ while True:
 
 #while
 
-#numero = int(input("ingrese un numero: "))
-#while numero < 100:   
- #   print(numero)
-  #  numero = int(input("ingrese un numero: "))
+numero = int(input("ingrese un numero: "))
+while numero < 100:   
+    print(numero)
+    numero = int(input("ingrese un numero: "))
 
-#while numero < 100 and numero > 50:
- #   print(numero)
-  #  numero = int(input("ingrese un numero: "))
-"""
+while numero < 100 and numero > 50:
+    print(numero)
+    numero = int(input("ingrese un numero: "))
+
 numero = int(input("ingresar numeros positivos: "))
 
 if numero > 0:
@@ -116,4 +116,4 @@ length = len(lista)
 for i in range(length):
     index = length - i - 1
     print(lista[index])
- 
+"""
